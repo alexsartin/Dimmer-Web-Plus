@@ -15,5 +15,5 @@ The website implemented can be uploaded and accessed in an external server on th
 
 Comunnication between website and Arduino are made with GET and POST requests.
 
-# More information
+# More information about the Dimmer library
 https://www.circuitar.com.br/projetos/dimmer3/
